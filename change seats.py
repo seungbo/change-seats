@@ -223,3 +223,4 @@ if __name__ == "__main__":
     app.mainloop()
 
 print('test')
+print('test2')
