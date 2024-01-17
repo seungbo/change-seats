@@ -221,6 +221,3 @@ class Frame3(tk.Frame):
 if __name__ == "__main__":
     app = App()
     app.mainloop()
-
-print('test')
-print('test2')
