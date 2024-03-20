@@ -86,6 +86,7 @@ class Frame2(tk.Frame, App):
                 seat_labels.append(seat_label)
 
         def Randomcmd():
+            Reset()
             newmember.clear()
             random.shuffle(member)
             random.shuffle(member)
